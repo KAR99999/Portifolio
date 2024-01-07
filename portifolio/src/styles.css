@@ -2,3 +2,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+  :root {
+    --color-primary: 255 255 255;
+    --color-secondary: 234 179 8;
+    --bg: #000000;
+    --primary: #ffffff;
+    --Gold: rgb(234 179 8);
+  }
+
